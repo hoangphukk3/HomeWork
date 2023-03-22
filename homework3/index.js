@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 const Apps = () => {
   const [number, setNumber] = useState([]);
   const [sum, setSum] = useState(0);
